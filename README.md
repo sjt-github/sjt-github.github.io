@@ -1,8 +1,8 @@
 ## Welcome to My Hub!
 ![alt text](untitled.png)
-..*Today's news
-Tomorrow's news
-The day after tomorrow
+## Today's news
+### Tomorrow's news
+### The day after tomorrow
 
 You can use the [editor on GitHub](https://github.com/sjt-github/sjt-github.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
